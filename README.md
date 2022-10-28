@@ -1,4 +1,5 @@
 # The Notary App
+
 This app contains several folder and each of them are listed below along with what code contained in them is doing
 
 | Folder        | Function                                               | 
@@ -14,4 +15,6 @@ Source root directory level files:
 | index.js    | connects the entire app with the root div              |
 | app.js      | main working file, everthing is displayed in this file |
 | index.css   | contains global styles as well as utility classes      |
+
+Entry file for working code is app.js
 
