@@ -1,0 +1,15 @@
+.loading {
+  text-align: center;
+  border: 1px solid #34d190;
+  border-radius: 5px;
+  padding: 10px 20px;
+  width: 50%;
+  color: #fff;
+  font-weight: bold;
+  background-color: #34d190;
+  box-shadow: rgba(52, 209, 144, 0.25) 0px 54px 55px,
+    rgba(52, 209, 144, 0.25) 0px -12px 30px,
+    rgba(52, 209, 144, 0.25) 0px 4px 6px, rgba(52, 209, 144, 0.25) 0px 12px 13px,
+    rgba(52, 209, 144, 0.25) 0px -3px 5px;
+  margin: 10px auto;
+}
